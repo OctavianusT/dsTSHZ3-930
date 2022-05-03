@@ -1,2 +1,2 @@
-# dsTSHZ3-930
-dsTSHZ3-930代码及支持数据
+# small activating RNA
+序列筛选代码及TSHZ3启动子区数据
