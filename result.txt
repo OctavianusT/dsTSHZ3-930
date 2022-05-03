@@ -1,0 +1,783 @@
+[1] -1999
+19-letter BString object
+seq: TCTGACTGTAGTGAGAGTT
+[1] -1997
+19-letter BString object
+seq: TGACTGTAGTGAGAGTTCT
+[1] -1996
+19-letter BString object
+seq: GACTGTAGTGAGAGTTCTA
+[1] -1933
+19-letter BString object
+seq: GTGTCTAGGTCTGCACTAA
+[1] -1932
+19-letter BString object
+seq: TGTCTAGGTCTGCACTAAA
+[1] -1874
+19-letter BString object
+seq: CCATCCTGAAGTGCCCAAT
+[1] -1850
+19-letter BString object
+seq: GGGAGACATTCTCACCAAA
+[1] -1831
+19-letter BString object
+seq: AACCTGTGTGATCTACACT
+[1] -1830
+19-letter BString object
+seq: ACCTGTGTGATCTACACTA
+[1] -1829
+19-letter BString object
+seq: CCTGTGTGATCTACACTAA
+[1] -1807
+19-letter BString object
+seq: AGCGGCCTTGTGGGTGGAT
+[1] -1805
+19-letter BString object
+seq: CGGCCTTGTGGGTGGATGT
+[1] -1804
+19-letter BString object
+seq: GGCCTTGTGGGTGGATGTA
+[1] -1803
+19-letter BString object
+seq: GCCTTGTGGGTGGATGTAA
+[1] -1802
+19-letter BString object
+seq: CCTTGTGGGTGGATGTAAG
+[1] -1801
+19-letter BString object
+seq: CTTGTGGGTGGATGTAAGA
+[1] -1800
+19-letter BString object
+seq: TTGTGGGTGGATGTAAGAA
+[1] -1799
+19-letter BString object
+seq: TGTGGGTGGATGTAAGAAT
+[1] -1798
+19-letter BString object
+seq: GTGGGTGGATGTAAGAATT
+[1] -1797
+19-letter BString object
+seq: TGGGTGGATGTAAGAATTG
+[1] -1796
+19-letter BString object
+seq: GGGTGGATGTAAGAATTGT
+[1] -1649
+19-letter BString object
+seq: ATTCTGCCGGGTATTTACA
+[1] -1648
+19-letter BString object
+seq: TTCTGCCGGGTATTTACAT
+[1] -1647
+19-letter BString object
+seq: TCTGCCGGGTATTTACATA
+[1] -1646
+19-letter BString object
+seq: CTGCCGGGTATTTACATAA
+[1] -1615
+19-letter BString object
+seq: TGGTTGTATCTGCCCTATT
+[1] -1614
+19-letter BString object
+seq: GGTTGTATCTGCCCTATTC
+[1] -1511
+19-letter BString object
+seq: GGGTGACAGAAAGGACAGA
+[1] -1510
+19-letter BString object
+seq: GGTGACAGAAAGGACAGAG
+[1] -1499
+19-letter BString object
+seq: GGACAGAGGTCAGGTGTTA
+[1] -1498
+19-letter BString object
+seq: GACAGAGGTCAGGTGTTAG
+[1] -1496
+19-letter BString object
+seq: CAGAGGTCAGGTGTTAGGA
+[1] -1494
+19-letter BString object
+seq: GAGGTCAGGTGTTAGGAGA
+[1] -1492
+19-letter BString object
+seq: GGTCAGGTGTTAGGAGACA
+[1] -1491
+19-letter BString object
+seq: GTCAGGTGTTAGGAGACAT
+[1] -1489
+19-letter BString object
+seq: CAGGTGTTAGGAGACATGC
+[1] -1480
+19-letter BString object
+seq: GGAGACATGCCACTAGCCA
+[1] -1475
+19-letter BString object
+seq: CATGCCACTAGCCATCTGG
+[1] -1468
+19-letter BString object
+seq: CTAGCCATCTGGGCAACAT
+[1] -1467
+19-letter BString object
+seq: TAGCCATCTGGGCAACATC
+[1] -1466
+19-letter BString object
+seq: AGCCATCTGGGCAACATCA
+[1] -1465
+19-letter BString object
+seq: GCCATCTGGGCAACATCAG
+[1] -1461
+19-letter BString object
+seq: TCTGGGCAACATCAGGGAA
+[1] -1460
+19-letter BString object
+seq: CTGGGCAACATCAGGGAAA
+[1] -1459
+19-letter BString object
+seq: TGGGCAACATCAGGGAAAT
+[1] -1458
+19-letter BString object
+seq: GGGCAACATCAGGGAAATC
+[1] -1457
+19-letter BString object
+seq: GGCAACATCAGGGAAATCT
+[1] -1456
+19-letter BString object
+seq: GCAACATCAGGGAAATCTC
+[1] -1441
+19-letter BString object
+seq: TCTCCCAGCCGTGCTAAGC
+[1] -1440
+19-letter BString object
+seq: CTCCCAGCCGTGCTAAGCT
+[1] -1439
+19-letter BString object
+seq: TCCCAGCCGTGCTAAGCTC
+[1] -1437
+19-letter BString object
+seq: CCAGCCGTGCTAAGCTCCA
+[1] -1436
+19-letter BString object
+seq: CAGCCGTGCTAAGCTCCAA
+[1] -1435
+19-letter BString object
+seq: AGCCGTGCTAAGCTCCAAA
+[1] -1434
+19-letter BString object
+seq: GCCGTGCTAAGCTCCAAAG
+[1] -1433
+19-letter BString object
+seq: CCGTGCTAAGCTCCAAAGA
+[1] -1432
+19-letter BString object
+seq: CGTGCTAAGCTCCAAAGAT
+[1] -1431
+19-letter BString object
+seq: GTGCTAAGCTCCAAAGATT
+[1] -1429
+19-letter BString object
+seq: GCTAAGCTCCAAAGATTCA
+[1] -1425
+19-letter BString object
+seq: AGCTCCAAAGATTCATCTG
+[1] -1424
+19-letter BString object
+seq: GCTCCAAAGATTCATCTGA
+[1] -1387
+19-letter BString object
+seq: TCTGCCTACCTCACAGGTT
+[1] -1386
+19-letter BString object
+seq: CTGCCTACCTCACAGGTTT
+[1] -1384
+19-letter BString object
+seq: GCCTACCTCACAGGTTTGC
+[1] -1383
+19-letter BString object
+seq: CCTACCTCACAGGTTTGCT
+[1] -1379
+19-letter BString object
+seq: CCTCACAGGTTTGCTGTAA
+[1] -1378
+19-letter BString object
+seq: CTCACAGGTTTGCTGTAAA
+[1] -1377
+19-letter BString object
+seq: TCACAGGTTTGCTGTAAAG
+[1] -1376
+19-letter BString object
+seq: CACAGGTTTGCTGTAAAGA
+[1] -1374
+19-letter BString object
+seq: CAGGTTTGCTGTAAAGATC
+[1] -1333
+19-letter BString object
+seq: ATGCCTGTAAAGCAGCATT
+[1] -1332
+19-letter BString object
+seq: TGCCTGTAAAGCAGCATTC
+[1] -1331
+19-letter BString object
+seq: GCCTGTAAAGCAGCATTCG
+[1] -1330
+19-letter BString object
+seq: CCTGTAAAGCAGCATTCGA
+[1] -1322
+19-letter BString object
+seq: GCAGCATTCGAATATAACG
+[1] -1301
+19-letter BString object
+seq: TTAGCCTCTTTGCCATTTC
+[1] -1300
+19-letter BString object
+seq: TAGCCTCTTTGCCATTTCC
+[1] -1299
+19-letter BString object
+seq: AGCCTCTTTGCCATTTCCC
+[1] -1274
+19-letter BString object
+seq: CTTCTGGAGTCATATTCAG
+[1] -1271
+19-letter BString object
+seq: CTGGAGTCATATTCAGTGT
+[1] -1247
+19-letter BString object
+seq: TTGTGCCTGCTGGCAGAAA
+[1] -1246
+19-letter BString object
+seq: TGTGCCTGCTGGCAGAAAG
+[1] -1245
+19-letter BString object
+seq: GTGCCTGCTGGCAGAAAGC
+[1] -1244
+19-letter BString object
+seq: TGCCTGCTGGCAGAAAGCA
+[1] -1243
+19-letter BString object
+seq: GCCTGCTGGCAGAAAGCAC
+[1] -1242
+19-letter BString object
+seq: CCTGCTGGCAGAAAGCACT
+[1] -1241
+19-letter BString object
+seq: CTGCTGGCAGAAAGCACTT
+[1] -1240
+19-letter BString object
+seq: TGCTGGCAGAAAGCACTTA
+[1] -1239
+19-letter BString object
+seq: GCTGGCAGAAAGCACTTAG
+[1] -1238
+19-letter BString object
+seq: CTGGCAGAAAGCACTTAGA
+[1] -1237
+19-letter BString object
+seq: TGGCAGAAAGCACTTAGAA
+[1] -1236
+19-letter BString object
+seq: GGCAGAAAGCACTTAGAAT
+[1] -1235
+19-letter BString object
+seq: GCAGAAAGCACTTAGAATG
+[1] -1197
+19-letter BString object
+seq: GGGTCGCTGCTCCTAAGCA
+[1] -1196
+19-letter BString object
+seq: GGTCGCTGCTCCTAAGCAC
+[1] -1195
+19-letter BString object
+seq: GTCGCTGCTCCTAAGCACA
+[1] -1194
+19-letter BString object
+seq: TCGCTGCTCCTAAGCACAT
+[1] -1193
+19-letter BString object
+seq: CGCTGCTCCTAAGCACATT
+[1] -1192
+19-letter BString object
+seq: GCTGCTCCTAAGCACATTA
+[1] -1191
+19-letter BString object
+seq: CTGCTCCTAAGCACATTAG
+[1] -1190
+19-letter BString object
+seq: TGCTCCTAAGCACATTAGA
+[1] -1189
+19-letter BString object
+seq: GCTCCTAAGCACATTAGAG
+[1] -1182
+19-letter BString object
+seq: AGCACATTAGAGCAAGTTG
+[1] -1134
+19-letter BString object
+seq: AAGTGGCTCTGTCTTTGGA
+[1] -1133
+19-letter BString object
+seq: AGTGGCTCTGTCTTTGGAG
+[1] -1126
+19-letter BString object
+seq: CTGTCTTTGGAGGAGGTAA
+[1] -1124
+19-letter BString object
+seq: GTCTTTGGAGGAGGTAATA
+[1] -1123
+19-letter BString object
+seq: TCTTTGGAGGAGGTAATAG
+[1] -1122
+19-letter BString object
+seq: CTTTGGAGGAGGTAATAGA
+[1] -1099
+19-letter BString object
+seq: CCCTGGCTATGTGGCATCT
+[1] -1098
+19-letter BString object
+seq: CCTGGCTATGTGGCATCTC
+[1] -1097
+19-letter BString object
+seq: CTGGCTATGTGGCATCTCC
+[1] -1085
+19-letter BString object
+seq: CATCTCCTCTGCCTGAGTT
+[1] -1083
+19-letter BString object
+seq: TCTCCTCTGCCTGAGTTCA
+[1] -1082
+19-letter BString object
+seq: CTCCTCTGCCTGAGTTCAC
+[1] -1080
+19-letter BString object
+seq: CCTCTGCCTGAGTTCACCA
+[1] -1079
+19-letter BString object
+seq: CTCTGCCTGAGTTCACCAT
+[1] -1078
+19-letter BString object
+seq: TCTGCCTGAGTTCACCATG
+[1] -1077
+19-letter BString object
+seq: CTGCCTGAGTTCACCATGT
+[1] -1076
+19-letter BString object
+seq: TGCCTGAGTTCACCATGTC
+[1] -1075
+19-letter BString object
+seq: GCCTGAGTTCACCATGTCA
+[1] -1074
+19-letter BString object
+seq: CCTGAGTTCACCATGTCAA
+[1] -1073
+19-letter BString object
+seq: CTGAGTTCACCATGTCAAA
+[1] -1059
+19-letter BString object
+seq: TCAAACGGCCTGCCAATTT
+[1] -1058
+19-letter BString object
+seq: CAAACGGCCTGCCAATTTC
+[1] -1057
+19-letter BString object
+seq: AAACGGCCTGCCAATTTCA
+[1] -1056
+19-letter BString object
+seq: AACGGCCTGCCAATTTCAT
+[1] -1055
+19-letter BString object
+seq: ACGGCCTGCCAATTTCATC
+[1] -1054
+19-letter BString object
+seq: CGGCCTGCCAATTTCATCT
+[1] -1053
+19-letter BString object
+seq: GGCCTGCCAATTTCATCTC
+[1] -1052
+19-letter BString object
+seq: GCCTGCCAATTTCATCTCA
+[1] -1051
+19-letter BString object
+seq: CCTGCCAATTTCATCTCAG
+[1] -1050
+19-letter BString object
+seq: CTGCCAATTTCATCTCAGT
+[1] -1040
+19-letter BString object
+seq: CATCTCAGTTCAGTTCAGT
+[1] -1035
+19-letter BString object
+seq: CAGTTCAGTTCAGTTTAGG
+[1] -1004
+19-letter BString object
+seq: CCCAGAGAATCACACTGAA
+[1] -1003
+19-letter BString object
+seq: CCAGAGAATCACACTGAAT
+[1] -980
+19-letter BString object
+seq: CTGAACCTTCCCATGGTAT
+[1] -979
+19-letter BString object
+seq: TGAACCTTCCCATGGTATT
+[1] -978
+19-letter BString object
+seq: GAACCTTCCCATGGTATTC
+[1] -977
+19-letter BString object
+seq: AACCTTCCCATGGTATTCA
+[1] -976
+19-letter BString object
+seq: ACCTTCCCATGGTATTCAG
+[1] -975
+19-letter BString object
+seq: CCTTCCCATGGTATTCAGA
+[1] -974
+19-letter BString object
+seq: CTTCCCATGGTATTCAGAT
+[1] -972
+19-letter BString object
+seq: TCCCATGGTATTCAGATGA
+[1] -971
+19-letter BString object
+seq: CCCATGGTATTCAGATGAT
+[1] -970
+19-letter BString object
+seq: CCATGGTATTCAGATGATG
+[1] -956
+19-letter BString object
+seq: TGATGGGACTCGGATTCCA
+[1] -955
+19-letter BString object
+seq: GATGGGACTCGGATTCCAT
+[1] -953
+19-letter BString object
+seq: TGGGACTCGGATTCCATGA
+[1] -952
+19-letter BString object
+seq: GGGACTCGGATTCCATGAA
+[1] -951
+19-letter BString object
+seq: GGACTCGGATTCCATGAAT
+[1] -950
+19-letter BString object
+seq: GACTCGGATTCCATGAATT
+[1] -949
+19-letter BString object
+seq: ACTCGGATTCCATGAATTC
+[1] -948
+19-letter BString object
+seq: CTCGGATTCCATGAATTCC
+[1] -941
+19-letter BString object
+seq: TCCATGAATTCCCTTCCAT
+[1] -940
+19-letter BString object
+seq: CCATGAATTCCCTTCCATT
+[1] -931
+19-letter BString object
+seq: CCCTTCCATTTCCCTCAAC
+[1] -930
+19-letter BString object
+seq: CCTTCCATTTCCCTCAACT
+[1] -921
+19-letter BString object
+seq: TCCCTCAACTGTAAGATTG
+[1] -920
+19-letter BString object
+seq: CCCTCAACTGTAAGATTGG
+[1] -907
+19-letter BString object
+seq: GATTGGGACAACAATTGTC
+[1] -903
+19-letter BString object
+seq: GGGACAACAATTGTCTCCA
+[1] -857
+19-letter BString object
+seq: ATGAGGTGACTGTGTAACA
+[1] -856
+19-letter BString object
+seq: TGAGGTGACTGTGTAACAA
+[1] -855
+19-letter BString object
+seq: GAGGTGACTGTGTAACAAA
+[1] -854
+19-letter BString object
+seq: AGGTGACTGTGTAACAAAG
+[1] -853
+19-letter BString object
+seq: GGTGACTGTGTAACAAAGC
+[1] -852
+19-letter BString object
+seq: GTGACTGTGTAACAAAGCT
+[1] -816
+19-letter BString object
+seq: AAACGCTAGCCAGCATTGT
+[1] -815
+19-letter BString object
+seq: AACGCTAGCCAGCATTGTA
+[1] -814
+19-letter BString object
+seq: ACGCTAGCCAGCATTGTAA
+[1] -813
+19-letter BString object
+seq: CGCTAGCCAGCATTGTAAT
+[1] -812
+19-letter BString object
+seq: GCTAGCCAGCATTGTAATT
+[1] -772
+19-letter BString object
+seq: GGGTCACACAACATGCTTA
+[1] -771
+19-letter BString object
+seq: GGTCACACAACATGCTTAC
+[1] -769
+19-letter BString object
+seq: TCACACAACATGCTTACCT
+[1] -758
+19-letter BString object
+seq: GCTTACCTCCTGGGCTATA
+[1] -757
+19-letter BString object
+seq: CTTACCTCCTGGGCTATAC
+[1] -756
+19-letter BString object
+seq: TTACCTCCTGGGCTATACA
+[1] -755
+19-letter BString object
+seq: TACCTCCTGGGCTATACAG
+[1] -754
+19-letter BString object
+seq: ACCTCCTGGGCTATACAGA
+[1] -753
+19-letter BString object
+seq: CCTCCTGGGCTATACAGAC
+[1] -750
+19-letter BString object
+seq: CCTGGGCTATACAGACGGA
+[1] -749
+19-letter BString object
+seq: CTGGGCTATACAGACGGAT
+[1] -748
+19-letter BString object
+seq: TGGGCTATACAGACGGATA
+[1] -747
+19-letter BString object
+seq: GGGCTATACAGACGGATAA
+[1] -746
+19-letter BString object
+seq: GGCTATACAGACGGATAAG
+[1] -739
+19-letter BString object
+seq: CAGACGGATAAGGCCTTAT
+[1] -738
+19-letter BString object
+seq: AGACGGATAAGGCCTTATT
+[1] -737
+19-letter BString object
+seq: GACGGATAAGGCCTTATTC
+[1] -736
+19-letter BString object
+seq: ACGGATAAGGCCTTATTCC
+[1] -735
+19-letter BString object
+seq: CGGATAAGGCCTTATTCCT
+[1] -730
+19-letter BString object
+seq: AAGGCCTTATTCCTGCTCT
+[1] -706
+19-letter BString object
+seq: GGGCTAAAGGTCTGTTATT
+[1] -705
+19-letter BString object
+seq: GGCTAAAGGTCTGTTATTG
+[1] -678
+19-letter BString object
+seq: AGTTAGGAGGTGCAGATAA
+[1] -677
+19-letter BString object
+seq: GTTAGGAGGTGCAGATAAT
+[1] -675
+19-letter BString object
+seq: TAGGAGGTGCAGATAATTC
+[1] -674
+19-letter BString object
+seq: AGGAGGTGCAGATAATTCA
+[1] -673
+19-letter BString object
+seq: GGAGGTGCAGATAATTCAC
+[1] -672
+19-letter BString object
+seq: GAGGTGCAGATAATTCACA
+[1] -631
+19-letter BString object
+seq: CCCTAACAATGTCCCTTTA
+[1] -630
+19-letter BString object
+seq: CCTAACAATGTCCCTTTAC
+[1] -622
+19-letter BString object
+seq: TGTCCCTTTACCTGATTTC
+[1] -621
+19-letter BString object
+seq: GTCCCTTTACCTGATTTCC
+[1] -620
+19-letter BString object
+seq: TCCCTTTACCTGATTTCCT
+[1] -613
+19-letter BString object
+seq: ACCTGATTTCCTGTTGAGT
+[1] -606
+19-letter BString object
+seq: TTCCTGTTGAGTGTCATTG
+[1] -604
+19-letter BString object
+seq: CCTGTTGAGTGTCATTGCA
+[1] -603
+19-letter BString object
+seq: CTGTTGAGTGTCATTGCAA
+[1] -599
+19-letter BString object
+seq: TGAGTGTCATTGCAAGTTC
+[1] -598
+19-letter BString object
+seq: GAGTGTCATTGCAAGTTCA
+[1] -596
+19-letter BString object
+seq: GTGTCATTGCAAGTTCATC
+[1] -570
+19-letter BString object
+seq: GGGCAGATCCCACCTAGTG
+[1] -569
+19-letter BString object
+seq: GGCAGATCCCACCTAGTGT
+[1] -562
+19-letter BString object
+seq: CCCACCTAGTGTCTCCCAA
+[1] -553
+19-letter BString object
+seq: TGTCTCCCAAGAGCATGAT
+[1] -552
+19-letter BString object
+seq: GTCTCCCAAGAGCATGATT
+[1] -551
+19-letter BString object
+seq: TCTCCCAAGAGCATGATTC
+[1] -550
+19-letter BString object
+seq: CTCCCAAGAGCATGATTCT
+[1] -549
+19-letter BString object
+seq: TCCCAAGAGCATGATTCTT
+[1] -548
+19-letter BString object
+seq: CCCAAGAGCATGATTCTTA
+[1] -547
+19-letter BString object
+seq: CCAAGAGCATGATTCTTAG
+[1] -523
+19-letter BString object
+seq: GAGTCCCATGGCCTCTGTA
+[1] -522
+19-letter BString object
+seq: AGTCCCATGGCCTCTGTAC
+[1] -521
+19-letter BString object
+seq: GTCCCATGGCCTCTGTACG
+[1] -501
+19-letter BString object
+seq: CCCATGAGTGAATATGGTT
+[1] -487
+19-letter BString object
+seq: TGGTTCGACCTTAAAGGAA
+[1] -486
+19-letter BString object
+seq: GGTTCGACCTTAAAGGAAG
+[1] -483
+19-letter BString object
+seq: TCGACCTTAAAGGAAGTTG
+[1] -482
+19-letter BString object
+seq: CGACCTTAAAGGAAGTTGG
+[1] -455
+19-letter BString object
+seq: ATGAGCCCTCGGGTGATGA
+[1] -454
+19-letter BString object
+seq: TGAGCCCTCGGGTGATGAG
+[1] -418
+19-letter BString object
+seq: AGCTGCTGGGCCCACATCT
+[1] -417
+19-letter BString object
+seq: GCTGCTGGGCCCACATCTA
+[1] -416
+19-letter BString object
+seq: CTGCTGGGCCCACATCTAC
+[1] -415
+19-letter BString object
+seq: TGCTGGGCCCACATCTACT
+[1] -414
+19-letter BString object
+seq: GCTGGGCCCACATCTACTG
+[1] -413
+19-letter BString object
+seq: CTGGGCCCACATCTACTGG
+[1] -412
+19-letter BString object
+seq: TGGGCCCACATCTACTGGC
+[1] -406
+19-letter BString object
+seq: CACATCTACTGGCGCTAAA
+[1] -404
+19-letter BString object
+seq: CATCTACTGGCGCTAAACA
+[1] -399
+19-letter BString object
+seq: ACTGGCGCTAAACAGCTTC
+[1] -398
+19-letter BString object
+seq: CTGGCGCTAAACAGCTTCT
+[1] -397
+19-letter BString object
+seq: TGGCGCTAAACAGCTTCTC
+[1] -396
+19-letter BString object
+seq: GGCGCTAAACAGCTTCTCA
+[1] -395
+19-letter BString object
+seq: GCGCTAAACAGCTTCTCAG
+[1] -366
+19-letter BString object
+seq: GGCCCGGGTAAGGATTGCA
+[1] -365
+19-letter BString object
+seq: GCCCGGGTAAGGATTGCAG
+[1] -364
+19-letter BString object
+seq: CCCGGGTAAGGATTGCAGC
+[1] -282
+19-letter BString object
+seq: GCGCCGACATCTCCGCAAA
+[1] -281
+19-letter BString object
+seq: CGCCGACATCTCCGCAAAG
+[1] -280
+19-letter BString object
+seq: GCCGACATCTCCGCAAAGG
+[1] -279
+19-letter BString object
+seq: CCGACATCTCCGCAAAGGC
+[1] -216
+19-letter BString object
+seq: CCCGAGGTAACAGTTACAC
+[1] -215
+19-letter BString object
+seq: CCGAGGTAACAGTTACACG
+[1] -214
+19-letter BString object
+seq: CGAGGTAACAGTTACACGT
+[1] -191
+19-letter BString object
+seq: GGGAGGAAACTTAGCGTGT
+[1] -115
+19-letter BString object
+seq: AGCCAGGCTGGGAAAGGGA
+[1] -109
+19-letter BString object
+seq: GCTGGGAAAGGGAGCACCA
